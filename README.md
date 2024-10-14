@@ -43,11 +43,11 @@ A comprehensive web-based PDF editor built with PHP, JavaScript, and MySQL that 
 - Composer (if using PHP libraries like TCPDF/FPDI)
 
 
-##Usage
+## Usage
 1. Upload a PDF:
 Navigate to the homepage (index.php) and upload a PDF.
 
-2.Edit and Annotate the PDF:
+2. Edit and Annotate the PDF:
 Use the drag-and-drop functionality to add text and move it to the desired position on the PDF.
 
 3. Share the PDF:
@@ -57,10 +57,10 @@ After editing, share a unique link with a customer through the view_document.php
 Once the customer signs the PDF, both you and the customer will receive signed copies.
 
 
-###License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-###Contact
+## Contact
 For any questions, feel free to contact:
 
 Email: Hadelhegazi@gmail.com
